@@ -1,2 +1,2 @@
 # gci_notebooks
-Files stored locally on Jacktop
+Project in gci_writeup.ipynb
